@@ -8,7 +8,7 @@
   "devDependencies": {
     "fs-extra": "^2.0.0",
     "glob": "^7.1.1",
-    "moment": "^2.17.1",
+    "moment": "^2.29.2",
     "ritter": "^0.3.1"
   }
 }
